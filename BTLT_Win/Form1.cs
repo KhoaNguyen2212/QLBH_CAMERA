@@ -171,5 +171,16 @@ namespace BTLT_Win
         private void btnKho_Click(object sender, EventArgs e)
         {
         }
+
+        private void hóaĐơnXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tồnKhoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TonKho frm = new TonKho();
+            frm.ShowDialog();
+        }
     }
 }

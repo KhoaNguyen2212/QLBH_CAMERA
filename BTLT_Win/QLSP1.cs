@@ -220,5 +220,15 @@ namespace BTLT_Win
         {
             LamMoi();
         }
+
+        private void txtThanhTien_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDonGia_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
